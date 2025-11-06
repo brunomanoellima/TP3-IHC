@@ -76,7 +76,7 @@ substituindo o controle manual realizado pelo vigilante e **reduzindo o uso de p
 
 O sistema será utilizado **dentro do instituto da UFAM**, tanto por alunos quanto por docentes,  
 para **agendar salas e laboratórios de forma prática e organizada**.  
-Ele poderá ser acessado via navegador, em **computadores ou dispositivos móveis** conectados à rede da universidade.
+Ele poderá ser acessado por aplicativo, em **dispositivos móveis** sem necessidade de esta na rede institucional.
 
 ---
 
