@@ -59,7 +59,7 @@ Com quem seria possível conversar para entender os detalhes técnicos ou admini
 ### 🖼️ Foto da Entrevistada  
 *(Inserir aqui a imagem do cliente entrevistado — ex.: `![Foto de Matilda](caminho/para/imagem.jpg)`)*
 
-Graduanda em Engenharia de Software pela **UFAM** e atualmente representante do curso de **Tecnologia da Informação** no Instituto de Computação.  
+Graduante em Engenharia de Software pela **UFAM** e atualmente representante do curso de **Engenharia de Software** no Instituto de Ciencias Exatas e Tecnologia.  
 Atua como ponto de contato entre alunos, professores e a coordenação do curso, auxiliando na comunicação e organização de demandas acadêmicas.  
 Foi a responsável por levantar a necessidade de **melhorar o processo de agendamento e controle de uso das salas e laboratórios**, que atualmente é feito de forma manual, por meio de registros em cadernos e controle físico de chaves.
 
