@@ -1,4 +1,4 @@
-![Guardinha](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/5-jornada-do-usuario/Imagens/guardinha.png)
+![Guardinha](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/5-jornada-do-usuario/Imagens/vigilante.png)
 
 # 🧭 Jornada do Usuário — Persona “Vigilante”
 
