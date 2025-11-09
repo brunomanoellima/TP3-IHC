@@ -3,8 +3,8 @@
 # 🧭 Jornada do Usuário — Persona “Vigilante”
 
 ## 📘 Contexto
-A jornada representa o passo a passo da interação da persona **Vigilante**, responsável pelo controle das salas e laboratórios da UFAM, com o **Sistema de Agendamento de Salas de Estudo e Laboratórios**.  
-O objetivo é mapear suas ações, emoções, necessidades e barreiras desde o **primeiro contato com o sistema** até a **realização de seu objetivo principal**: manter o controle das reservas de forma simples, organizada e sem conflitos.
+A jornada representa o passo a passo da interação da persona Vigilante, responsável pelo controle das salas e laboratórios da UFAM, com o Sistema de Agendamento de Salas de Estudo e Laboratórios.  
+O objetivo é mapear suas ações, emoções, necessidades e barreiras desde o primeiro contato com o sistema até a realização de seu objetivo principal: manter o controle das reservas de forma simples, organizada e sem conflitos.
 
 ---
 
@@ -20,9 +20,9 @@ O objetivo é mapear suas ações, emoções, necessidades e barreiras desde o *
 ---
 
 ## 🧩 Síntese da Jornada
-A jornada evidencia como o Vigilante **evolui de um estado de insegurança para confiança** durante o uso do sistema.  
-Com o tempo, ele percebe que o sistema oferece **facilidade visual**, **redução de erros** e **organização das reservas**, tornando sua rotina mais eficiente e menos estressante.  
-As principais barreiras estão relacionadas à **baixa familiaridade com tecnologia** e à **necessidade de interfaces simples e visuais**.
+A jornada evidencia como o Vigilante evolui de um estado de insegurança para confiança durante o uso do sistema.  
+Com o tempo, ele percebe que o sistema oferece facilidade visual, redução de erros e organização das reservas, tornando sua rotina mais eficiente e menos estressante.  
+As principais barreiras estão relacionadas à baixa familiaridade com tecnologia e à necessidade de interfaces simples e visuais.
 
 ---
 
@@ -31,7 +31,7 @@ As principais barreiras estão relacionadas à **baixa familiaridade com tecnolo
 # 🧭 Jornada do Usuário — Persona “Estudante Autorizado”
 
 ## 📘 Contexto
-A jornada representa o passo a passo da interação da persona **Estudante Autorizado** com o **Sistema de Agendamento de Salas de Estudo e Laboratórios da UFAM**.  
+A jornada representa o passo a passo da interação da persona Estudante Autorizado com o Sistema de Agendamento de Salas de Estudo e Laboratórios da UFAM.  
 O objetivo é mostrar como o aluno acessa, utiliza e finaliza o uso do sistema para reservar salas, passando por suas ações, emoções, necessidades e barreiras durante todo o processo.
 
 ---
@@ -48,6 +48,6 @@ O objetivo é mostrar como o aluno acessa, utiliza e finaliza o uso do sistema p
 ---
 
 ## 🧩 Síntese da Jornada
-A jornada mostra como o **Estudante Autorizado** utiliza o sistema de forma prática para planejar e realizar suas atividades acadêmicas em grupo.  
-Ele começa curioso e com pequenas dúvidas, mas termina satisfeito ao perceber que o sistema torna o processo **mais ágil, digital e transparente**.  
-As principais barreiras envolvem **adaptação a novas ferramentas**, **interface acessível** e **integração com o controle físico das chaves**.
+A jornada mostra como o Estudante Autorizado utiliza o sistema de forma prática para planejar e realizar suas atividades acadêmicas em grupo.  
+Ele começa curioso e com pequenas dúvidas, mas termina satisfeito ao perceber que o sistema torna o processo mais ágil, digital e transparente.  
+As principais barreiras envolvem adaptação a novas ferramentas, interface acessível e integração com o controle físico das chaves.
