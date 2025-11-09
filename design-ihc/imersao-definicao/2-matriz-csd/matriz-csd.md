@@ -21,6 +21,7 @@ A **Matriz CSD** é uma ferramenta de apoio à definição do projeto, organizan
 
 ---
 
+<img src="https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/certezas.png" width="400px" />
 ![Certezas](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/certezas.png)
 ---
 ![Suposições](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/suposi%C3%A7%C3%B5es.png)
