@@ -13,10 +13,15 @@ A **Matriz CSD** é uma ferramenta de apoio à definição do projeto, organizan
 ![WhatsApp Image 1](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/WhatsApp%20Image%202025-11-06%20at%2015.12.42.jpeg)
 ![WhatsApp Image 2](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/WhatsApp%20Image%202025-11-06%20at%2015.13.57.jpeg)
 
+---
 
 ## Matriz Construída
 
 ![Matriz Certezas](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/Matriz%20CSD.png)
+
+![Certezas](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/certezas.png)
+![Suposições](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/suposi%C3%A7%C3%B5es.png)
+![Duvidas](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/duvidas.png)
 
 ---
 
