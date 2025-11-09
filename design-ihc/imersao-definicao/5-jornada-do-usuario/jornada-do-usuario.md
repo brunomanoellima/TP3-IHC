@@ -2,7 +2,7 @@
 
 # 🧭 Jornada do Usuário — Persona “Vigilante”
 
-## 📘 Contexto
+## Contexto
 A jornada representa o passo a passo da interação da persona Vigilante, responsável pelo controle das salas e laboratórios da UFAM, com o Sistema de Agendamento de Salas de Estudo e Laboratórios.  
 O objetivo é mapear suas ações, emoções, necessidades e barreiras desde o primeiro contato com o sistema até a realização de seu objetivo principal: manter o controle das reservas de forma simples, organizada e sem conflitos.
 
@@ -12,14 +12,14 @@ O objetivo é mapear suas ações, emoções, necessidades e barreiras desde o p
 
 | **Elementos / Etapas** | **Etapa 1 — Primeiro Contato** | **Etapa 2 — Acesso ao Sistema** | **Etapa 3 — Registro de Reserva** | **Etapa 4 — Controle de Chaves** | **Etapa 5 — Fechamento do Dia** |
 |--------------------------|--------------------------------|----------------------------------|----------------------------------|----------------------------------|--------------------------------|
-| **🎯 Objetivos** | Entender para que serve o novo sistema e como ele pode ajudar. | Visualizar a disponibilidade das salas de forma clara. | Registrar reservas de forma rápida e sem erros. | Controlar quem está com a chave e o tempo de uso. | Encerrar o dia com tudo registrado e organizado. |
-| **🧩 Necessidades** | Instruções simples e visuais de uso. | Interface intuitiva com cores e indicadores. | Sistema com ícones e informações fáceis de reconhecer. | Painel de controle de reservas em tempo real. | Relatório diário automático de uso das salas. |
-| **💭 Sentimentos** | Curioso, mas inseguro com a tecnologia. | Aliviado por entender o sistema e achar fácil. | Confiante e satisfeito ao registrar reservas corretamente. | Tranquilo e mais produtivo ao controlar chaves digitalmente. | Orgulhoso e aliviado por ver tudo sob controle. |
-| **🚧 Barreiras** | Falta de prática com sistemas digitais. | Medo de clicar errado e apagar informações. | Internet lenta ou sistema travando. | Dificuldade se o sistema for confuso ou com muitos passos. | Problemas técnicos ao gerar relatórios ou salvar dados. |
+| **Objetivos** | Entender para que serve o novo sistema e como ele pode ajudar. | Visualizar a disponibilidade das salas de forma clara. | Registrar reservas de forma rápida e sem erros. | Controlar quem está com a chave e o tempo de uso. | Encerrar o dia com tudo registrado e organizado. |
+| **Necessidades** | Instruções simples e visuais de uso. | Interface intuitiva com cores e indicadores. | Sistema com ícones e informações fáceis de reconhecer. | Painel de controle de reservas em tempo real. | Relatório diário automático de uso das salas. |
+| **Sentimentos** | Curioso, mas inseguro com a tecnologia. | Aliviado por entender o sistema e achar fácil. | Confiante e satisfeito ao registrar reservas corretamente. | Tranquilo e mais produtivo ao controlar chaves digitalmente. | Orgulhoso e aliviado por ver tudo sob controle. |
+| **Barreiras** | Falta de prática com sistemas digitais. | Medo de clicar errado e apagar informações. | Internet lenta ou sistema travando. | Dificuldade se o sistema for confuso ou com muitos passos. | Problemas técnicos ao gerar relatórios ou salvar dados. |
 
 ---
 
-## 🧩 Síntese da Jornada
+## Síntese da Jornada
 A jornada evidencia como o Vigilante evolui de um estado de insegurança para confiança durante o uso do sistema.  
 Com o tempo, ele percebe que o sistema oferece facilidade visual, redução de erros e organização das reservas, tornando sua rotina mais eficiente e menos estressante.  
 As principais barreiras estão relacionadas à baixa familiaridade com tecnologia e à necessidade de interfaces simples e visuais.
@@ -30,7 +30,7 @@ As principais barreiras estão relacionadas à baixa familiaridade com tecnologi
 
 # 🧭 Jornada do Usuário — Persona “Estudante Autorizado”
 
-## 📘 Contexto
+## Contexto
 A jornada representa o passo a passo da interação da persona Estudante Autorizado com o Sistema de Agendamento de Salas de Estudo e Laboratórios da UFAM.  
 O objetivo é mostrar como o aluno acessa, utiliza e finaliza o uso do sistema para reservar salas, passando por suas ações, emoções, necessidades e barreiras durante todo o processo.
 
@@ -40,14 +40,14 @@ O objetivo é mostrar como o aluno acessa, utiliza e finaliza o uso do sistema p
 
 | **Elementos / Etapas** | **Etapa 1 — Identificação da Necessidade** | **Etapa 2 — Verificação da Disponibilidade** | **Etapa 3 — Reserva da Sala** | **Etapa 4 — Retirada da Chave** | **Etapa 5 — Devolução e Encerramento** |
 |--------------------------|-------------------------------------------|----------------------------------------------|--------------------------------|----------------------------------|--------------------------------|
-| **🎯 Objetivos** | Perceber a necessidade de uma sala para trabalho em grupo ou reunião de projeto. | Verificar a disponibilidade das salas em tempo real sem sair do lugar. | Reservar a sala desejada o mais rápido possível. | Ir ao vigilante no horário certo, retirar a chave e usar a sala. | Devolver a chave ao vigilante para que ele finalize o registro no sistema. |
-| **🧩 Necessidades** | Acesso ao aplicativo. Login por e-mail institucional. | Interface que use textos claros ou ícones para status. Filtros de busca. | Sistema simples que não exija manual. Confirmação da reserva. | Que o vigilante possa validar a reserva digitalmente e entregar a chave física. | Que o registro de devolução seja digital e rápido, substituindo o caderno. |
-| **💭 Sentimentos** | Satisfeito por ter acesso ao sistema. | Um pouco confuso, mas curioso para aprender. | Atento e cuidadoso ao reservar. | Aliviado ao validar a reserva e conseguir usar a sala. | Tranquilo e satisfeito com o processo concluído. |
-| **🚧 Barreiras** | Ter que acessar uma nova plataforma. | Confusão se a interface depender de cores que ele não distingue bem. | Medo de clicar errado se o sistema for complexo. | O vigilante ser um gargalo se o sistema dele for lento. | A necessidade de deslocamento físico para devolver a chave. |
+| **Objetivos** | Perceber a necessidade de uma sala para trabalho em grupo ou reunião de projeto. | Verificar a disponibilidade das salas em tempo real sem sair do lugar. | Reservar a sala desejada o mais rápido possível. | Ir ao vigilante no horário certo, retirar a chave e usar a sala. | Devolver a chave ao vigilante para que ele finalize o registro no sistema. |
+| **Necessidades** | Acesso ao aplicativo. Login por e-mail institucional. | Interface que use textos claros ou ícones para status. Filtros de busca. | Sistema simples que não exija manual. Confirmação da reserva. | Que o vigilante possa validar a reserva digitalmente e entregar a chave física. | Que o registro de devolução seja digital e rápido, substituindo o caderno. |
+| **Sentimentos** | Satisfeito por ter acesso ao sistema. | Um pouco confuso, mas curioso para aprender. | Atento e cuidadoso ao reservar. | Aliviado ao validar a reserva e conseguir usar a sala. | Tranquilo e satisfeito com o processo concluído. |
+| **Barreiras** | Ter que acessar uma nova plataforma. | Confusão se a interface depender de cores que ele não distingue bem. | Medo de clicar errado se o sistema for complexo. | O vigilante ser um gargalo se o sistema dele for lento. | A necessidade de deslocamento físico para devolver a chave. |
 
 ---
 
-## 🧩 Síntese da Jornada
+## Síntese da Jornada
 A jornada mostra como o Estudante Autorizado utiliza o sistema de forma prática para planejar e realizar suas atividades acadêmicas em grupo.  
 Ele começa curioso e com pequenas dúvidas, mas termina satisfeito ao perceber que o sistema torna o processo mais ágil, digital e transparente.  
 As principais barreiras envolvem adaptação a novas ferramentas, interface acessível e integração com o controle físico das chaves.
