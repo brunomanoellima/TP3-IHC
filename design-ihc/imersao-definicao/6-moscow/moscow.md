@@ -16,7 +16,7 @@ Essa priorização ajuda a definir quais funcionalidades são indispensáveis, q
 
 ## 📸 Priorização Visual — Técnica MoSCoW
 
-![Priorização MoSCoW](moscou.png)
+![Priorização MoSCoW](imagens/moscou.png)
 
 > **Figura 6 —** Priorização das funcionalidades utilizando a técnica MoSCoW.  
 > Cada cor representa o nível de prioridade, seguindo o modelo adotado para o projeto de Agendamento de Salas e Laboratórios da UFAM.  
