@@ -51,3 +51,31 @@ O objetivo é mostrar como o aluno acessa, utiliza e finaliza o uso do sistema p
 A jornada mostra como o Estudante Autorizado utiliza o sistema de forma prática para planejar e realizar suas atividades acadêmicas em grupo.  
 Ele começa curioso e com pequenas dúvidas, mas termina satisfeito ao perceber que o sistema torna o processo mais ágil, digital e transparente.  
 As principais barreiras envolvem adaptação a novas ferramentas, interface acessível e integração com o controle físico das chaves.
+
+---
+
+![Aluno](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/5-jornada-do-usuario/Imagens/Jornada%201.0.png)
+
+# 🧭 Jornada do Usuário — Persona “Docente”
+
+## Contexto
+A jornada representa o passo a passo da interação da persona Docente, representada pelo professor Marcos Azevedo, com o Sistema de Agendamento de Salas de Estudo e Laboratórios da UFAM.  
+O objetivo é compreender como o docente utiliza o sistema desde a identificação da necessidade de reserva até o encerramento do uso do espaço, destacando suas ações, emoções, necessidades e possíveis barreiras.
+
+---
+
+## 📊 Etapas da Jornada
+
+| **Elementos / Etapas** | **Etapa 1 — Identificação da Necessidade** | **Etapa 2 — Verificação da Disponibilidade** | **Etapa 3 — Reserva do Espaço** | **Etapa 4 — Uso e Validação da Chave** | **Etapa 5 — Encerramento da Reserva** |
+|--------------------------|-------------------------------------------|----------------------------------------------|----------------------------------|----------------------------------------|---------------------------------------|
+| **Objetivos** | Perceber a necessidade de reservar uma sala para aula, orientação ou atividade prática. | Visualizar rapidamente a disponibilidade das salas e laboratórios. | Reservar o espaço de forma simples e sem depender do vigilante. | Utilizar a sala conforme o agendamento, com controle digital da chave. | Finalizar o uso e garantir que o registro da devolução esteja salvo no sistema. |
+| **Necessidades** | Acesso rápido via login institucional. | Interface intuitiva com informações claras de horários e capacidade. | Confirmação automática da reserva por e-mail. | Que o vigilante valide a retirada da chave de forma digital. | Que o sistema registre automaticamente o encerramento da reserva e libere o espaço. |
+| **Sentimentos** | Satisfeito por poder realizar o processo digitalmente. | Confiante com a transparência do sistema. | Produtivo e autônomo durante a reserva. | Tranquilo e seguro ao utilizar a sala conforme o planejamento. | Aliviado e satisfeito por concluir o processo sem burocracia. |
+| **Barreiras** | Falta de integração com o calendário acadêmico. | Dificuldade em encontrar salas específicas (por tipo ou recursos). | Sistema travando ou autenticação lenta. | Falha de sincronização entre reserva digital e controle físico. | Erros no registro automático ou necessidade de validação manual da devolução. |
+
+---
+
+## Síntese da Jornada
+A jornada do Docente Marcos Azevedo evidencia a busca por autonomia, eficiência e integração nos processos de agendamento de salas e laboratórios.  
+Durante sua experiência, ele passa de um perfil dependente de processos manuais para um usuário confiante e produtivo, que utiliza o sistema de forma prática e rápida.  
+As principais barreiras estão relacionadas à falta de integração entre sistemas institucionais, lentidão e sincronização incompleta com o controle físico das chaves.  
