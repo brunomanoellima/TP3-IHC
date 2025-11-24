@@ -65,7 +65,7 @@ Abaixo estão as versões dos HTAs com descrições completas.
 
 ## **HTA 1 – Acessar o sistema**
 
-![HTA 1](./imagens/1.png)
+![HTA 1](./imagens/1.jpeg)
 
 Essa funcionalidade descreve o fluxo necessário para que o usuário consiga acessar o sistema por meio do login institucional. O propósito do HTA é detalhar as etapas envolvidas nesse processo de autenticação, evidenciando a sequência lógica de ações, as decisões necessárias e como cada tarefa contribui para a segurança e a usabilidade do sistema. 
 
