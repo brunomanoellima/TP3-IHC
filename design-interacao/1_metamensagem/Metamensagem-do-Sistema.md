@@ -31,6 +31,6 @@ Sistema institucional integrado que centraliza agendamentos, controle de chaves 
 ---
 
 ### **4. Formas de utilizar a solução**
-Acessar via dispositivo móvel, fazer login com e-mail institucional, consultar disponibilidade, realizar reservas e participar do fluxo digital de retirada e devolução de chaves com validação do vigilante.
+Acessar o aplicativo no dispositivo móvel, fazer login com e-mail institucional, consultar disponibilidade, realizar reservas e participar do fluxo digital de retirada e devolução de chaves com validação do vigilante.
 
 ---
