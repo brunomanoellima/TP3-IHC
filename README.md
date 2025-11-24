@@ -132,9 +132,6 @@ A metamensagem define:
 - como o sistema ajuda  
 - o que a interface deve transmitir  
 
-📸 **Imagem da Metamensagem**  
-![Metamensagem](../1_metamensagem/imagens/metamensagem.png)
-
 ---
 
 ## 🎯 2.2 Mapa de Objetivos  
@@ -165,14 +162,14 @@ Inclui 8 HTAs completos, cada um com:
 
 | HTA | Imagem |
 |------|--------|
-| **HTA 1 – Acessar o sistema** | ![HTA1](../3_HTAs/imagens/hta1.png) |
-| **HTA 2 – Visualizar disponibilidade** | ![HTA2](../3_HTAs/imagens/hta2.png) |
-| **HTA 3 – Selecionar e definir reserva** | ![HTA3](../3_HTAs/imagens/hta3.png) |
-| **HTA 4 – Confirmar reserva** | ![HTA4](../3_HTAs/imagens/hta4.png) |
-| **HTA 5 – Visualizar reservas (vigilante)** | ![HTA5](../3_HTAs/imagens/hta5.png) |
-| **HTA 6 – Validar retirada da chave** | ![HTA6](../3_HTAs/imagens/hta6.png) |
-| **HTA 7 – Registrar devolução** | ![HTA7](../3_HTAs/imagens/hta7.png) |
-| **HTA 8 – Consultar histórico** | ![HTA8](../3_HTAs/imagens/hta8.png) |
+| **HTA 1 – Acessar o sistema** | ![HTA1](design-interacao/3_HTAs/imagens/hta1.png) |
+| **HTA 2 – Visualizar disponibilidade** | ![HTA2](design-interacao/3_HTAs/imagens/hta2.png) |
+| **HTA 3 – Selecionar e definir reserva** | ![HTA3](design-interacao/3_HTAs/imagens/hta3.png) |
+| **HTA 4 – Confirmar reserva** | ![HTA4](design-interacao/3_HTAs/imagens/hta4.png) |
+| **HTA 5 – Visualizar reservas (vigilante)** | ![HTA5](design-interacao/3_HTAs/imagens/hta5.png) |
+| **HTA 6 – Validar retirada da chave** | ![HTA6](design-interacao/3_HTAs/imagens/hta6.png) |
+| **HTA 7 – Registrar devolução** | ![HTA7](design-interacao/3_HTAs/imagens/hta7.png) |
+| **HTA 8 – Consultar histórico** | ![HTA8](design-interacao/3_HTAs/imagens/hta8.png) |
 
 ---
 
@@ -189,9 +186,9 @@ Inclui:
 
 | Tipo | Imagem |
 |------|--------|
-| **MoLIC do Usuário** | ![MolicUsuario](../4_diagramas-MoLIC/imagens/MolicUsuario.png) |
-| **MoLIC Adaptado (Daltônicos)** | ![MolicDalt](../4_diagramas-MoLIC/imagens/MolicUsuarioDaltonico.png) |
-| **MoLIC do Vigilante** | ![MolicVigi](../4_diagramas-MoLIC/imagens/MolicVigilante.jpeg) |
+| **MoLIC do Usuário** | ![MolicUsuario](design-interacao/4_diagramas-MoLIC/imagens/MolicUsuario.png) |
+| **MoLIC Adaptado (Daltônicos)** | ![MolicDalt](design-interacao/4_diagramas-MoLIC/imagens/MolicUsuarioDaltonico.png) |
+| **MoLIC do Vigilante** | ![MolicVigi](design-interacao/4_diagramas-MoLIC/imagens/MolicVigilante.jpeg) |
 
 ---
 
@@ -211,16 +208,15 @@ Inclui:
 
 | Tela | Imagem |
 |------|--------|
-| **Usuário – Versão 1** | ![TelaUsuario1](../5_sketches/imagens/TelaUsuario1.png) |
-| **Usuário – Versão 2 (Escolhida)** | ![TelaUsuario2](../5_sketches/imagens/TelaUsuario2.png) |
-| **Usuário – Adaptada para Daltônicos** | ![TelaDaltonico](../5_sketches/imagens/TelaUsuarioDaltonico.png) |
+| **Usuário – Versão 1** | ![TelaUsuario1](design-interacao/5_sketches/imagens/TelaUsuario1.png) |
+| **Usuário – Versão 2 (Escolhida)** | ![TelaUsuario2](design-interacao/5_sketches/imagens/TelaUsuario2.png) |
 
 ### 📸 Sketches do Vigilante
 
 | Tela | Imagem |
 |------|--------|
-| **Vigilante – Versão 1** | ![Vigi1](../5_sketches/imagens/Tela_Vigi_1.PNG) |
-| **Vigilante – Versão 2 (Escolhida)** | ![Vigi2](../5_sketches/imagens/Tela_Vigi_2.PNG) |
+| **Vigilante – Versão 1** | ![Vigi1](design-interacao/5_sketches/imagens/Tela_Vigi_1.PNG) |
+| **Vigilante – Versão 2 (Escolhida)** | ![Vigi2](design-interacao/5_sketches/imagens/Tela_Vigi_2.PNG) |
 
 ---
 
