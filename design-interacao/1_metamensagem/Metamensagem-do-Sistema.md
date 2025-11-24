@@ -1,4 +1,4 @@
-# 🧩 Metamensagem do Sistema  
+# Metamensagem do Sistema  
 ## **Agendamento de Salas e Laboratórios – UFAM**
 
 > **“Caro(a) membro da comunidade acadêmica da UFAM, entendi que você busca organização, agilidade e praticidade no uso dos espaços do instituto, sem depender de processos burocráticos, anotações manuais ou longas esperas.   
@@ -13,7 +13,7 @@
 
 ---
 
-## 🏷️ Legenda dos Elementos Destacados
+## Legenda dos Elementos Destacados
 
 ### **1. Quem é o usuário**
 Alunos, professores e vigilantes da UFAM que necessitam de agilidade e transparência no agendamento e uso de salas e laboratórios.
