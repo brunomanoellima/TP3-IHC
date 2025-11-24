@@ -22,7 +22,7 @@ Nesta seção estão os diagramas, cada um acompanhado do objetivo correspondent
 
 ## **HTA 3 — Selecionar e Definir Reserva**
 **Objetivo:** Guiar o usuário na escolha da sala disponível e no preenchimento das informações essenciais da reserva.  
-![HTA 3](./imagens/hta3.png)
+![HTA 3](./imagens/hta3_1.png)
 
 ---
 
