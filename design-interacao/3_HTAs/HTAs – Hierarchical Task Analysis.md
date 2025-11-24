@@ -57,7 +57,7 @@ Nesta seção estão os diagramas, cada um acompanhado do objetivo correspondent
 ---
 
 
-# 2. Descrição Detalhada das Tarefas (IMAGENS ANTIGAS)
+# 2. Descrição Detalhada dos HTAs
 
 Abaixo estão as versões dos HTAs com descrições completas.
 
