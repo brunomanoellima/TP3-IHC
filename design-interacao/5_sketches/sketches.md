@@ -43,11 +43,11 @@ A separação entre as informações, o campo visual e os comandos está mais cl
 
 ---
 
-## 🔹 Tela Adaptada para Daltônicos *(usa o mesmo MoLIC do usuário)*
+## 🔹 MoLIC para usuarios Daltônicos *(usa a mesma tela do usuário)*
 ![Tela Usuário Daltônico](../4_diagramas-MoLIC/imagens/MolicUsuarioDaltonico.png)
 
-A versão adaptada para daltônicos não altera o MoLIC, pois o fluxo cognitivo permanece o mesmo.  
-A adaptação consiste em:
+A versão adaptada para daltônicos não altera a tela, pois o fluxo cognitivo permanece o mesmo.  
+A tela consiste em:
 
 - Evitar dependência de cores para transmitir status  
 - Utilizar descrições textuais em vez de colorações  
@@ -55,7 +55,7 @@ A adaptação consiste em:
 - Padronizar ícones e indicadores sem uso de cores conflitantes  
 
 Essa tela é compatível com **tanto usuários comuns quanto daltônicos**.
-
+![Tela Usuário 2](./imagens/TelaUsuario2.png)
 ### ⭐ **Versão escolhida pela equipe:** **Versão 2 do usuário**
 
 ---
