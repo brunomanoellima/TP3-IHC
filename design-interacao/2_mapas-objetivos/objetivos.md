@@ -5,7 +5,7 @@ A seguir está o mapa completo que representa os objetivos dos diferentes usuár
 
 ![Mapa de Objetivos](./imagens/objetivos.png)
 
-O diagrama acima mostra, de forma visual e organizada, **o que cada tipo de usuário faz dentro do sistema** e **qual é o objetivo final de cada conjunto de ações**.  
+O diagrama acima mostra, de forma visual e organizada, o que cada tipo de usuário faz dentro do sistema e qual é o objetivo final de cada conjunto de ações.  
 Ele é dividido em áreas funcionais que representam as partes principais do sistema.
 
 Existem três papéis no sistema:
@@ -14,13 +14,13 @@ Existem três papéis no sistema:
 - **A – Discente Autorizado:** alunos autorizados a reservar salas.  
 - **V – Vigilante:** responsáveis pelo controle físico das salas e das chaves.  
 
-Cada bloco contém ações que esses usuários realizam, e as setas apontam para o **objetivo final** que essas ações alcançam.
+Cada bloco contém ações que esses usuários realizam, e as setas apontam para o objetivo final que essas ações alcançam.
 
 ---
 
 # 🗂️ 1. Reservas e Agendamentos
 
-Nesta seção, **docentes e discentes** realizam todos os passos necessários para fazer uma reserva.
+Nesta seção, docentes e discentes realizam todos os passos necessários para fazer uma reserva.
 
 Eles podem:
 - Acessar o sistema usando login institucional.  
@@ -36,7 +36,7 @@ Eles podem:
 
 # 🔐 2. Controle de Chaves e Uso do Espaço
 
-Aqui, **vigilantes** e **usuários** interagem para garantir o fluxo correto de uso da sala reservada.
+Aqui, vigilantes e usuários interagem para garantir o fluxo correto de uso da sala reservada.
 
 Principais ações:
 - O vigilante vê quais reservas estão confirmadas.  
