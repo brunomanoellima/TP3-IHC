@@ -3,7 +3,7 @@
 
 A seguir está o mapa completo que representa os objetivos dos diferentes usuários do sistema.
 
-![Mapa de Objetivos](./objetivos.png)
+![Mapa de Objetivos](./imagens/objetivos.png)
 
 O diagrama acima mostra, de forma visual e organizada, **o que cada tipo de usuário faz dentro do sistema** e **qual é o objetivo final de cada conjunto de ações**.  
 Ele é dividido em áreas funcionais que representam as partes principais do sistema.
