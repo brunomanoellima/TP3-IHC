@@ -145,7 +145,7 @@ O mapa apresenta:
 - caminhos de ação  
 
 📸 **Mapa de Objetivos**  
-![Mapa de Objetivos](../2_mapas-objetivos/objetivos.png)
+![Mapa de Objetivos](design-interacao/2_mapas-objetivos/imagens/mapa_objetivo.png)
 
 ---
 
