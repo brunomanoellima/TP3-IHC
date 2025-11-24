@@ -6,10 +6,18 @@
 
 ![HTA 1](./imagens/1.jpeg)
 
-Essa funcionalidade descreve o fluxo necessário para que o usuário consiga acessar o sistema por meio do login institucional.  
-O propósito do HTA é detalhar as etapas envolvidas nesse processo de autenticação, evidenciando a sequência lógica de ações, as decisões necessárias e como cada tarefa contribui para a segurança e a usabilidade do sistema.
-
-O fluxo inicia quando o usuário decide utilizar o serviço no aplicativo. Em seguida, são solicitadas informações institucionais, como e-mail e senha, garantindo que apenas pessoas autorizadas possam acessar o sistema. Por fim, ocorre a confirmação da autenticação, permitindo ao usuário prosseguir para as funcionalidades internas.
+Essa funcionalidade descreve o fluxo necessário para que o usuário consiga acessar o 
+sistema por meio do login institucional. O propósito do HTA é detalhar as etapas 
+envolvidas nesse processo de autenticação, evidenciando a sequência lógica de 
+ações, as decisões necessárias e como cada tarefa contribui para a segurança e a 
+usabilidade do sistema. 
+O fluxo inicia quando o usuário decide utilizar o serviço no aplicativo. Em seguida, são 
+solicitadas informações institucionais, como e-mail e senha, garantindo que apenas 
+pessoas autorizadas possam acessar o sistema. Por fim, ocorre a confirmação da 
+autenticação, permitindo ao usuário prosseguir para as funcionalidades internas. 
+Esse detalhamento torna visível a estrutura do processo, ajuda a identificar possíveis 
+barreiras e orienta melhorias na interface, especialmente no que diz respeito à clareza, 
+redução de erros e acessibilidade. 
 
 ---
 
@@ -17,9 +25,15 @@ O fluxo inicia quando o usuário decide utilizar o serviço no aplicativo. Em se
 
 ![HTA 2](./imagens/2.jpeg)
 
-Essa funcionalidade permite que o usuário visualize a disponibilidade das salas por meio de um fluxo simples e direto.
-
-O usuário é direcionado ao calendário principal, acessa a grade horária e finalmente visualiza as salas disponíveis relacionadas àquele horário.
+Essa funcionalidade permite que o usuário visualize a disponibilidade das salas por 
+meio de um fluxo simples e direto. O objetivo do HTA é decompor o processo em 
+etapas essenciais, mostrando como o usuário acessa e interpreta as informações 
+oferecidas pelo sistema. 
+Ao acessar a função, o usuário é inicialmente direcionado ao calendário principal, 
+onde ocorre a navegação inicial. Em seguida, ele tem acesso à grade horária, que 
+organiza os horários de forma estruturada para facilitar a interpretação. Por fim, o 
+usuário pode visualizar a lista de salas disponíveis, relacionando os horários da grade 
+às salas que podem ser utilizadas naquele momento. 
 
 ---
 
@@ -27,9 +41,16 @@ O usuário é direcionado ao calendário principal, acessa a grade horária e fi
 
 ![HTA 3](./imagens/3.jpeg)
 
-Essa funcionalidade descreve o processo pelo qual o usuário seleciona uma sala disponível e define os parâmetros básicos da reserva.
-
-O usuário clica na sala, vê um relatório de informações essenciais e, em seguida, define horário inicial, horário final e motivo da reserva.
+Essa funcionalidade descreve o processo pelo qual o usuário seleciona uma sala 
+disponível e define os parâmetros básicos para realizar uma reserva. O objetivo do HTA 
+é decompor esse fluxo em etapas claras, mostrando como o usuário avança desde a 
+escolha inicial da sala até o preenchimento das informações necessárias para concluir 
+o registro. 
+O processo inicia quando o usuário clica em uma sala disponível. Em seguida, o 
+sistema exibe um relatório com as informações essenciais para confirmar que a sala 
+realmente pode ser reservada naquele horário. Após essa visualização, o usuário deve 
+preencher o relatório, definindo dois elementos fundamentais: o horário inicial e final 
+da reserva e um motivo breve que justifique o uso do espaço. 
 
 ---
 
@@ -37,8 +58,13 @@ O usuário clica na sala, vê um relatório de informações essenciais e, em se
 
 ![HTA 4](./imagens/4.jpeg)
 
-A confirmação da reserva representa a etapa final do processo.  
-O sistema exibe os dados preenchidos anteriormente e o usuário confirma para formalizar sua reserva.
+A funcionalidade de confirmação da reserva representa o momento em que o usuário 
+finaliza o processo, validando as informações apresentadas pelo sistema. O objetivo 
+do HTA é evidenciar como essa etapa, embora breve, envolve a revisão dos dados 
+exibidos para que o usuário tenha segurança antes de concluir a ação. 
+Inicialmente, o sistema exibe os detalhes do formulário preenchido anteriormente, 
+permitindo ao usuário verificar se as informações estão corretas. Em seguida, o 
+usuário prossegue clicando no botão Confirmar, formalizando a reserva. 
 
 ---
 
@@ -46,7 +72,12 @@ O sistema exibe os dados preenchidos anteriormente e o usuário confirma para fo
 
 ![HTA 5](./imagens/5.jpeg)
 
-Essa funcionalidade descreve como o vigilante acessa o painel e visualiza as reservas do dia, incluindo horários e status de cada uma.
+Esta funcionalidade descreve o processo pelo qual o vigilante acessa o painel 
+destinado ao acompanhamento das reservas. O objetivo do HTA é detalhar as etapas 
+essenciais para que o vigilante visualize, de forma organizada, as reservas do dia. 
+Primeiro, o vigilante acessa o painel próprio do sistema, que centraliza as informações 
+relevantes para sua função. Em seguida, ele visualiza a lista das reservas do dia, 
+incluindo o status associado a cada uma delas. 
 
 ---
 
@@ -54,9 +85,19 @@ Essa funcionalidade descreve como o vigilante acessa o painel e visualiza as res
 
 ![HTA 6](./imagens/6.jpeg)
 
-O vigilante verifica a identidade do usuário por meio do nome, foto e dados da reserva.  
-A partir disso, ele pode rejeitar ou validar a retirada.  
-Ao validar, conclui clicando em **Entregar chave**, e o sistema registra automaticamente.
+Essa funcionalidade descreve o processo pelo qual o vigilante valida a retirada da 
+chave por parte do usuário que fez a reserva. O objetivo do HTA é detalhar as etapas 
+necessárias para confirmar a identidade do usuário e autorizar ou não a entrega da 
+chave. 
+Primeiro, o vigilante verifica a identidade do usuário comparando foto, nome e 
+informações da reserva. A partir dessa verificação, duas possibilidades são 
+apresentadas: rejeitar a identidade, caso não corresponda aos dados da reserva, ou 
+validá-la quando estiver correta. Se a identidade for validada, o vigilante conclui a ação 
+clicando na opção de Entregar chave. 
+Paralelamente, o sistema registra a entrega, garantindo que a operação seja marcada 
+adequadamente dentro do fluxo de uso das salas. O encadeamento apresentado no 
+HTA mostra de forma clara e objetiva como o processo se estrutura, permitindo ao 
+vigilante tomar a decisão correta em cada etapa. 
 
 ---
 
@@ -64,7 +105,15 @@ Ao validar, conclui clicando em **Entregar chave**, e o sistema registra automat
 
 ![HTA 7](./imagens/7.jpeg)
 
-Ao final do uso da sala, o vigilante registra no sistema que a chave foi devolvida, encerrando oficialmente a reserva.
+Essa funcionalidade representa o encerramento do ciclo de uso da sala. Seu objetivo é 
+registrar, de forma clara e segura, que o usuário devolveu a chave e que a sala está 
+novamente disponível para novas reservas. O HTA detalha cada etapa envolvida nesse 
+processo, garantindo rastreabilidade e transparência no fluxo de empréstimo e 
+devolução. 
+O procedimento começa com o usuário entregando a chave física ao vigilante. Em 
+seguida, o vigilante localiza no painel a reserva correspondente, confirma a devolução 
+e encerra oficialmente o uso da sala no sistema. Esse registro evita conflitos, assegura 
+organização e mantém o controle atualizado do estado físico das salas. 
 
 ---
 
@@ -72,8 +121,10 @@ Ao final do uso da sala, o vigilante registra no sistema que a chave foi devolvi
 
 ![HTA 8](./imagens/8.jpeg)
 
-O vigilante acessa o menu de histórico e visualiza todas as reservas concluídas.  
-Se necessário, filtra por sala ou por data para facilitar a busca por registros específicos.
-
----
-
+Esta funcionalidade descreve o processo pelo qual o vigilante consulta o histórico de 
+reservas realizadas anteriormente. O objetivo do HTA é detalhar as etapas essenciais 
+que permitem ao usuário acessar essas informações de forma simples e organizada. 
+Primeiro, o vigilante acessa o menu Histórico, onde estão reunidas as reservas já 
+concluídas. Em seguida, o sistema exibe a lista dessas reservas para visualização 
+geral. Caso deseje, o vigilante pode aplicar filtros por data ou por sala, facilitando a 
+localização de registros específicos dentro do histórico. 
