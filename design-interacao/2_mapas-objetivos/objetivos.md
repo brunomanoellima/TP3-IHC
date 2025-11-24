@@ -29,8 +29,7 @@ Eles podem:
 - Definir o horário da reserva.  
 - Confirmar a reserva.
 
-🎯 **Objetivo Final:**  
-**Concluir o agendamento da sala.**
+Objetivo Final: Concluir o agendamento da sala.
 
 ---
 
@@ -44,8 +43,7 @@ Principais ações:
 - O usuário retira a chave e usa a sala no horário marcado.  
 - O vigilante registra a devolução da chave.
 
-🎯 **Objetivo Final:**  
-**Garantir o controle físico e digital das chaves.**
+Objetivo Final: Garantir o controle físico e digital das chaves.
 
 ---
 
@@ -58,8 +56,7 @@ Ações:
 - Vigilantes consultam o histórico de reservas.  
 - Todos podem visualizar o status de uma sala (reservada, em uso, devolvida).
 
-🎯 **Objetivo Final:**  
-**Acompanhar e validar registros de utilização.**
+Objetivo Final: Acompanhar e validar registros de utilização.
 
 ---
 
@@ -71,8 +68,7 @@ Ações:
 - Usuários recebem lembretes de reserva e devolução.  
 - Todos confirmam ações diretamente por notificações.
 
-🎯 **Objetivo Final:**  
-**Manter a comunicação entre usuários e vigilantes.**
+Objetivo Final: Manter a comunicação entre usuários e vigilantes.
 
 ---
 
@@ -84,8 +80,7 @@ Ações:
 - Gerenciar usuários e níveis de acesso.  
 - Manter o funcionamento e a segurança do sistema.
 
-🎯 **Objetivo Final:**  
-**Garantir a estabilidade e segurança da plataforma.**
+Objetivo Final: Garantir a estabilidade e segurança da plataforma.
 
 ---
 
