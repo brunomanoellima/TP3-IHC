@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Diagramas e Objetivos Correspondentes
+## 🧭 1. Diagramas e Objetivos Correspondentes
 
 Nesta seção estão os diagramas, cada um acompanhado do objetivo correspondente.
 
@@ -57,7 +57,7 @@ Nesta seção estão os diagramas, cada um acompanhado do objetivo correspondent
 ---
 
 
-# 2. Descrição Detalhada dos HTAs
+# 🧭 2. Descrição Detalhada dos HTAs
 
 Abaixo estão as versões dos HTAs com descrições completas.
 
