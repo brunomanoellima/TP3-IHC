@@ -6,7 +6,7 @@ A seguir estão os diagramas MoLIC desenvolvidos para o sistema, acompanhados de
 
 # 📘 1. MoLIC – Usuário Padrão
 
-![MoLIC Usuário](./MolicUsuario.png)
+![MoLIC Usuário](./imagens/MolicUsuario.png)
 
 Este diagrama representa o **fluxo de interação do usuário comum (docente ou discente autorizado)** ao realizar uma reserva no sistema.
 
@@ -31,8 +31,7 @@ Este diagrama mostra **todo o caminho do usuário até concluir uma reserva**.
 
 # 📘 2. MoLIC – Usuário Daltônico
 
-![MoLIC Usuário Daltônico](./MolicUsuarioDaltonico.png)
-
+![MoLIC Usuário Daltônico](./imagens/MolicUsuarioDaltonico.png)
 
 Este diagrama representa o mesmo fluxo de reserva do usuário comum, porém **adaptado para acessibilidade**, garantindo que pessoas com daltonismo possam usar o sistema sem dificuldades.
 
@@ -50,7 +49,7 @@ Este diagrama demonstra o compromisso com **acessibilidade e design inclusivo** 
 
 # 📘 3. MoLIC – Vigilante
 
-![MoLIC Vigilante](./MolicVigilante.jpeg)
+![MoLIC Vigilante](./imagens/MolicVigilante.jpeg)
 
 
 Este diagrama representa o fluxo do **vigilante**, responsável por validar retirada de chave, acompanhar reservas e registrar devoluções.
