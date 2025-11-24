@@ -1,110 +1,246 @@
-# 📘 TP3 – Imersão & Definição  
-### Sistema de Agendamento de Salas e Laboratórios – UFAM (ICET)
+# 📘 TP3 – Imersão, Definição & Design de Interação  
+## Sistema de Agendamento de Salas e Laboratórios – UFAM (ICET)
 
-Este repositório contém todos os artefatos produzidos na etapa de **Imersão e Definição** do projeto de IHC, incluindo:  
-- Briefing com o cliente  
-- Matriz CSD  
-- Benchmarking  
-- Personas  
-- Jornada do Usuário  
-- Priorização MoSCoW  
+Este repositório reúne todos os artefatos produzidos nas etapas de **Imersão**, **Definição** e **Design de Interação** do TP3 de IHC.  
+Aqui estão incluídos: pesquisa com usuários, modelagem conceitual, análise de tarefas, fluxos de interação e protótipos de baixa fidelidade.
 
 ---
 
-# 🧩 1. Briefing
+# 🧭 1. Imersão & Definição
+
+---
+
+## 🧩 Briefing
 
 ### 👥 Clientes Potenciais
-**Docente:** professor que precisa reservar salas para aulas, práticas e orientações. Hoje depende do vigilante e do caderno físico.
 
-**Discente autorizado:** aluno que usa salas para reuniões, estudos em grupo e atividades acadêmicas, também usando o sistema manual atual.
+**Docente:**  
+Professor que precisa reservar salas para aulas, práticas e orientações. Hoje depende do vigilante e do caderno físico.
 
-> ❗ O processo atual é lento, burocrático, totalmente manual e sem transparência.
+**Discente autorizado:**  
+Aluno que usa salas para reuniões, estudos em grupo e atividades acadêmicas, também dependendo do sistema manual atual.
+
+> ❗ O processo atual é **lento, burocrático, manual e sem transparência**.
 
 ### 🗣️ Roteiro de entrevista
+
 > "Olá, somos estudantes de IHC e estamos desenvolvendo um sistema para facilitar o agendamento das salas do instituto..."
 
-Inclui perguntas sobre: funcionalidades essenciais, problemas do sistema atual, prioridades, possíveis integrações (SIGAA/SUAP), regras internas e atores envolvidos.
+Foram coletadas informações sobre:
+- necessidades reais  
+- dores do sistema atual  
+- funcionalidades essenciais  
+- prioridades  
+- integrações possíveis  
 
 ### 👩‍💻 Cliente C1 – Representante do Curso
-Graduanda de Engenharia de Software, responsável pela comunicação entre alunos, coordenação e vigilância. Detalhou a necessidade de digitalizar o processo de reservas.
+
+Estudante de Engenharia de Software que atua como ponte entre coordenação, alunos e vigilância.  
+Apresentou com clareza a demanda de **digitalizar o processo inteiro de reserva**.
 
 ---
 
-# 🧱 2. Matriz CSD  
+## 🧱 Matriz CSD
 
-A Matriz CSD organiza as informações em:  
-- **Certezas:** fatos validados  
-- **Suposições:** hipóteses  
-- **Dúvidas:** pontos a investigar  
+Organiza as descobertas em:
 
-### 📸 Matriz construída  
+- **Certezas**  
+- **Suposições**  
+- **Dúvidas**
+
+### 📸 Matriz construída
 ![Matriz CSD](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/Matriz%20CSD.png)
 
 ---
 
-# 📊 3. Benchmarking
+## 📊 Benchmarking
 
 Sistemas analisados:
 
-1. **Google Calendar** – excelente interface e notificações, mas sem controle físico de chaves.  
-2. **Microsoft Bookings** – robusto, porém pago e dependente da Microsoft.  
-3. **Sistema de Reserva USP** – adequado ao ambiente acadêmico.  
-4. **MRBS – IFAM** – mais próximo da UFAM, mas limitado ao ambiente interno.
+1. **Google Calendar** – excelente visual, mas sem controle de chaves.  
+2. **Microsoft Bookings** – robusto, mas pago.  
+3. **Reserva USP** – acadêmico, porém limitado.  
+4. **MRBS – IFAM** – mais próximo da realidade UFAM.
 
 ### 🧠 Conclusão geral
-Nenhum sistema atende totalmente ao contexto da UFAM.  
-A solução proposta deve unir **praticidade digital** + **controle físico realizado pelo vigilante**.
+A UFAM precisa de um sistema **híbrido**: digital + suporte ao controle físico de chaves feito pelo vigilante.
 
 ---
 
-# 👤 4. Personas & 🧭 5. Jornada do Usuário
+## 👤 Personas & 🧭 Jornada do Usuário
 
-Foram criadas três personas principais:
+Três personas principais:
 
 ### 👮 Vigilante  
-Responsável pelo controle das chaves.  
-Começa **inseguro com tecnologia**, termina **confiante** com o uso do sistema.  
-Dores: processos manuais, medo de cometer erros, falta de organização.
+Dores: processos manuais, receio de erros, falta de organização.
 
 ### 🎓 Estudante Autorizado  
-Usuário que busca reservar salas com rapidez e transparência.  
-Dores: deslocamento até o vigilante, falta de visualização em tempo real.
+Dores: deslocamento até o vigilante, falta de previsibilidade e transparência.
 
 ### 👨‍🏫 Docente  
-Professor que busca autonomia e previsibilidade na reserva de salas.  
-Dores: agenda cheia, dependência do vigilante, zero integração digital.
+Dores: agenda cheia, dependência do vigilante, dificuldade para acompanhar salas.
 
-As jornadas completas estão em: `5-jornada-do-usuario/jornada-do-usuario.md`.
+As jornadas completas estão em:  
+`5-jornada-do-usuario/jornada-do-usuario.md`
 
 ---
 
-# 📌 6. Priorização MoSCoW
+## 📌 Priorização MoSCoW
 
-A técnica **MoSCoW** foi utilizada para classificar requisitos em:
+Classificação dos requisitos:
 
-- **Must Have:** essenciais (login institucional, visualização, reserva e confirmação do vigilante).  
-- **Should Have:** importantes, mas não críticas (filtros de busca, histórico de reserva).  
-- **Could Have:** incrementos (mapa interativo, recorrência de reservas).  
-- **Won’t Have:** fora da versão atual (integração com Google Calendar, chat, plataforma web completa).
+- **Must Have:** login institucional, visualização, reserva e validação do vigilante.  
+- **Should Have:** filtros e histórico.  
+- **Could Have:** mapa interativo, recorrência de reservas.  
+- **Won’t Have:** integração com Google Calendar.
 
-### 📸 Priorização  
+### 📸 Priorização
 ![MoSCoW](design-ihc/imersao-definicao/6-moscow/imagens/moscou.png)
 
 ---
 
-# 📎 Arquivos úteis
+## 📎 Arquivos úteis da Imersão & Definição
 
 - **Briefing:** `1-briefing/briefing.md`  
 - **Matriz CSD:** `2-matriz-csd/matriz-csd.md`  
 - **Benchmarking:** `3-benchmarking/benchmarking.md`  
-- **Personas:** pasta `4-personas/`  
+- **Personas:** `4-personas/`  
 - **Jornada do usuário:** `5-jornada-do-usuario/jornada-do-usuario.md`  
 - **MoSCoW:** `6-moscow/moscow.md`  
 
 ---
 
+# 🎨 2. Design de Interação
+
+Esta seção apresenta todo o processo de modelagem e prototipação do sistema, dividido em:
+
+1. Metamensagem  
+2. Mapa de Objetivos  
+3. HTAs  
+4. Diagramas MoLIC  
+5. Protótipos de Baixa Fidelidade (Sketches)
+
+---
+
+## 🧩 2.1 Metamensagem  
+📁 Pasta: [`1_metamensagem`](../1_metamensagem/README.md)
+
+A metamensagem define:
+
+- quem usa o sistema  
+- o que busca  
+- como o sistema ajuda  
+- o que a interface deve transmitir  
+
+📸 **Imagem da Metamensagem**  
+![Metamensagem](../1_metamensagem/imagens/metamensagem.png)
+
+---
+
+## 🎯 2.2 Mapa de Objetivos  
+📁 Pasta: [`2_mapas-objetivos`](../2_mapas-objetivos/README.md)
+
+O mapa apresenta:
+
+- objetivos finais  
+- objetivos intermediários  
+- relação entre papéis  
+- caminhos de ação  
+
+📸 **Mapa de Objetivos**  
+![Mapa de Objetivos](../2_mapas-objetivos/objetivos.png)
+
+---
+
+## 🧠 2.3 HTA – Hierarchical Task Analysis  
+📁 Pasta: [`3_HTAs`](../3_HTAs/README.md)
+
+Inclui 8 HTAs completos, cada um com:
+
+- imagem  
+- explicação textual  
+- relação com o Mapa de Objetivos  
+
+### 📸 HTAs (1 a 8)
+
+| HTA | Imagem |
+|------|--------|
+| **HTA 1 – Acessar o sistema** | ![HTA1](../3_HTAs/imagens/hta1.png) |
+| **HTA 2 – Visualizar disponibilidade** | ![HTA2](../3_HTAs/imagens/hta2.png) |
+| **HTA 3 – Selecionar e definir reserva** | ![HTA3](../3_HTAs/imagens/hta3.png) |
+| **HTA 4 – Confirmar reserva** | ![HTA4](../3_HTAs/imagens/hta4.png) |
+| **HTA 5 – Visualizar reservas (vigilante)** | ![HTA5](../3_HTAs/imagens/hta5.png) |
+| **HTA 6 – Validar retirada da chave** | ![HTA6](../3_HTAs/imagens/hta6.png) |
+| **HTA 7 – Registrar devolução** | ![HTA7](../3_HTAs/imagens/hta7.png) |
+| **HTA 8 – Consultar histórico** | ![HTA8](../3_HTAs/imagens/hta8.png) |
+
+---
+
+## 💬 2.4 Diagramas MoLIC  
+📁 Pasta: [`4_diagramas-MoLIC`](../4_diagramas-MoLIC/README.md)
+
+Inclui:
+
+- MoLIC do Usuário  
+- MoLIC Adaptado para Daltônicos  
+- MoLIC do Vigilante  
+
+### 📸 Diagramas MoLIC
+
+| Tipo | Imagem |
+|------|--------|
+| **MoLIC do Usuário** | ![MolicUsuario](../4_diagramas-MoLIC/imagens/MolicUsuario.png) |
+| **MoLIC Adaptado (Daltônicos)** | ![MolicDalt](../4_diagramas-MoLIC/imagens/MolicUsuarioDaltonico.png) |
+| **MoLIC do Vigilante** | ![MolicVigi](../4_diagramas-MoLIC/imagens/MolicVigilante.jpeg) |
+
+---
+
+## 🎨 2.5 Protótipos de Baixa Fidelidade (Sketches)  
+📁 Pasta: [`5_sketches`](../5_sketches/README.md)
+
+Inclui:
+
+- Telas do usuário (versão 1 e 2)  
+- Tela adaptada para daltônicos  
+- Telas do vigilante  
+- Comparativo MoLIC → Tela  
+- Explicações  
+- Justificativa da escolha da Versão 2  
+
+### 📸 Sketches do Usuário
+
+| Tela | Imagem |
+|------|--------|
+| **Usuário – Versão 1** | ![TelaUsuario1](../5_sketches/imagens/TelaUsuario1.png) |
+| **Usuário – Versão 2 (Escolhida)** | ![TelaUsuario2](../5_sketches/imagens/TelaUsuario2.png) |
+| **Usuário – Adaptada para Daltônicos** | ![TelaDaltonico](../5_sketches/imagens/TelaUsuarioDaltonico.png) |
+
+### 📸 Sketches do Vigilante
+
+| Tela | Imagem |
+|------|--------|
+| **Vigilante – Versão 1** | ![Vigi1](../5_sketches/imagens/Tela_Vigi_1.PNG) |
+| **Vigilante – Versão 2 (Escolhida)** | ![Vigi2](../5_sketches/imagens/Tela_Vigi_2.PNG) |
+
+---
+
+---
+
 # ✔️ Conclusão
 
-Este repositório documenta de forma completa a fase de **Imersão e Definição** do projeto, reunindo todas as informações essenciais para dar continuidade ao desenvolvimento da solução de agendamento de salas da UFAM.
+Esta seção documenta de forma completa e organizada todo o processo de **Design de Interação**, mostrando claramente:
+
+- a visão conceitual  
+- os objetivos dos usuários  
+- as tarefas essenciais  
+- os fluxos de interação  
+- e os primeiros protótipos desenhados  
+
+Ela garante consistência, clareza e rastreabilidade entre todas as etapas do projeto.
+
+
+
+
+
 
 
