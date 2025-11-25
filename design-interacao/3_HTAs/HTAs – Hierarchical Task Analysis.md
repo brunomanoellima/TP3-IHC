@@ -85,7 +85,7 @@ Ao acessar a função, o usuário é inicialmente direcionado ao calendário pri
 
 ## **HTA 3 – Selecionar e definir reserva**
 
-![HTA 3](./imagens/3.jpeg)
+![HTA 3](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-interacao/3_HTAs/imagens/3.jpg)
 
 Essa funcionalidade descreve o processo pelo qual o usuário seleciona uma sala disponível e define os parâmetros básicos para realizar uma reserva. O objetivo do HTA é decompor esse fluxo em etapas claras, mostrando como o usuário avança desde a escolha inicial da sala até o preenchimento das informações necessárias para concluir o registro. 
 
