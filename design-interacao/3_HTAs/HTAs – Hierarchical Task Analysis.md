@@ -10,7 +10,7 @@ Nesta seção estão os diagramas, cada um acompanhado do objetivo correspondent
 
 ## **HTA 1 — Acessar o Sistema**
 **Objetivo:** Permitir que o usuário entre no sistema de forma segura por meio do login institucional.  
-![HTA 1](./imagens/hta1.png)
+![HTA 1](https://drive.google.com/drive/folders/1X3OKQn3R3Ok2xn1iZzoBLsLHBOR_Ypc2?hl=pt-br)
 
 ---
 
