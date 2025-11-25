@@ -162,14 +162,14 @@ Inclui 8 HTAs completos, cada um com:
 
 | HTA | Imagem |
 |------|--------|
-| **HTA 1 – Acessar o sistema** | ![HTA1](design-interacao/3_HTAs/imagens/hta1.png) |
-| **HTA 2 – Visualizar disponibilidade** | ![HTA2](design-interacao/3_HTAs/imagens/hta2.png) |
-| **HTA 3 – Selecionar e definir reserva** | ![HTA3](design-interacao/3_HTAs/imagens/hta3.png) |
-| **HTA 4 – Confirmar reserva** | ![HTA4](design-interacao/3_HTAs/imagens/hta4.png) |
-| **HTA 5 – Visualizar reservas (vigilante)** | ![HTA5](design-interacao/3_HTAs/imagens/hta5.png) |
-| **HTA 6 – Validar retirada da chave** | ![HTA6](design-interacao/3_HTAs/imagens/hta6.png) |
-| **HTA 7 – Registrar devolução** | ![HTA7](design-interacao/3_HTAs/imagens/hta7.png) |
-| **HTA 8 – Consultar histórico** | ![HTA8](design-interacao/3_HTAs/imagens/hta8.png) |
+| **HTA 1 – Acessar o sistema** | ![HTA1](https://drive.google.com/uc?id=1hXETYxbKu4LS-oOsDaK3r-2fV-fFBSQh) |
+| **HTA 2 – Visualizar disponibilidade** | ![HTA2](https://drive.google.com/uc?id=1EChsTqi7xUjsGV0wf0iaMmh71udgL43F) |
+| **HTA 3 – Selecionar e definir reserva** | ![HTA3](https://drive.google.com/uc?id=1L2kVTmX-QillwDhgoAiUqeFNmJCX3SrN) |
+| **HTA 4 – Confirmar reserva** | ![HTA4](https://drive.google.com/uc?id=1CBsHOWBzDJiLKNiWhtDtYvoUB8a6sZTK) |
+| **HTA 5 – Visualizar reservas (vigilante)** | ![HTA5](https://drive.google.com/uc?id=1R3m_M08aG7tBzPq8U5rLvRet-txARUhZ) |
+| **HTA 6 – Validar retirada da chave** | ![HTA6](https://drive.google.com/uc?id=1_I1R-F1gtZtn1LHuN1LnamTKptwX0_0O) |
+| **HTA 7 – Registrar devolução** | ![HTA7](https://drive.google.com/uc?id=1mzohrNWfvdezT3EsA3TIBBWlzGMLCoou) |
+| **HTA 8 – Consultar histórico** | ![HTA8](https://drive.google.com/uc?id=15XKPXNWHimCZrgd-oZgzvAcKI2yhQvZ6) |
 
 ---
 
@@ -186,9 +186,9 @@ Inclui:
 
 | Tipo | Imagem |
 |------|--------|
-| **MoLIC do Usuário** | ![MolicUsuario](design-interacao/4_diagramas-MoLIC/imagens/MolicUsuario.png) |
-| **MoLIC Adaptado (Daltônicos)** | ![MolicDalt](design-interacao/4_diagramas-MoLIC/imagens/MolicUsuarioDaltonico.png) |
-| **MoLIC do Vigilante** | ![MolicVigi](design-interacao/4_diagramas-MoLIC/imagens/MolicVigilante.jpeg) |
+| **MoLIC do Usuário** | ![MolicUsuario](https://drive.google.com/uc?id=1LNBWe1ZdsLRqOsEywFGjvb_6Mww3hKHt) |
+| **MoLIC Adaptado (Daltônicos)** | ![MolicDalt](https://drive.google.com/uc?id=1KX8EztG9P22jXXkhar4jv5GnOxoiGqju) |
+| **MoLIC do Vigilante** | ![MolicVigi](https://drive.google.com/uc?id=1QZZcQV2IPWICTKlCWHQdKa8GbXwWPmVG) |
 
 ---
 
