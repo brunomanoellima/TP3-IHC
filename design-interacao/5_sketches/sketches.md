@@ -9,7 +9,8 @@ Cada bloco apresenta o **fluxo MoLIC acima** e a **tela correspondente abaixo**.
 # 👤 1. Usuário – MoLIC e Telas
 
 ## 🔶 MoLIC do Usuário
-![MoLIC Usuário](../4_diagramas-MoLIC/imagens/MolicUsuario.png)
+
+![MoLIC Usuário](https://drive.google.com/uc?id=1LNBWe1ZdsLRqOsEywFGjvb_6Mww3hKHt)
 
 O MoLIC do usuário descreve o fluxo completo realizado pelo Docente ou Discente Autorizado ao tentar reservar uma sala.  
 Ele inclui:
@@ -27,7 +28,7 @@ Esse fluxo define todas as intenções, operações e respostas do sistema duran
 
 ## 🔹 Tela do Usuário – Versão 1
 ![Tela Usuário 1](./imagens/TelaUsuario1.png)
- 
+
 A versão 1 apresenta uma interface funcional, mas ainda pouco organizada para navegação fluida.  
 Os elementos estão presentes, porém a hierarquia visual não transmite clareza suficiente para a tomada de decisão rápida.
 
@@ -43,8 +44,9 @@ A separação entre as informações, o campo visual e os comandos está mais cl
 
 ---
 
-## 🔹 MoLIC para usuarios Daltônicos *(usa a mesma tela do usuário)*
-![Tela Usuário Daltônico](../4_diagramas-MoLIC/imagens/MolicUsuarioDaltonico.png)
+# 🟦 1.1. MoLIC para Usuários Daltônicos *(usa a mesma tela do usuário)*
+
+![MoLIC Usuário Daltônico](https://drive.google.com/uc?id=1KX8EztG9P22jXXkhar4jv5GnOxoiGqju)
 
 A versão adaptada para daltônicos não altera a tela, pois o fluxo cognitivo permanece o mesmo.  
 A tela consiste em:
@@ -55,7 +57,9 @@ A tela consiste em:
 - Padronizar ícones e indicadores sem uso de cores conflitantes  
 
 Essa tela é compatível com **tanto usuários comuns quanto daltônicos**.
+
 ![Tela Usuário 2](./imagens/TelaUsuario2.png)
+
 ### ⭐ **Versão escolhida pela equipe:** **Versão 2 do usuário**
 
 ---
@@ -63,7 +67,8 @@ Essa tela é compatível com **tanto usuários comuns quanto daltônicos**.
 # 🛡️ 2. Vigilante – MoLIC e Telas
 
 ## 🔶 MoLIC do Vigilante
-![MoLIC Vigilante](../4_diagramas-MoLIC/imagens/MolicVigilante.jpeg)
+
+![MoLIC Vigilante](https://drive.google.com/uc?id=1QZZcQV2IPWICTKlCWHQdKa8GbXwWPmVG)
 
 O MoLIC do vigilante representa todas as etapas administrativas relacionadas ao controle de chaves e uso das salas:
 
@@ -116,4 +121,3 @@ Os motivos:
 - experiência do usuário mais intuitiva  
 
 Esses protótipos servirão como base para o protótipo de média fidelidade.
-
