@@ -95,7 +95,7 @@ O processo inicia quando o usuário clica em uma sala disponível. Em seguida, o
 
 ## **HTA 4 – Confirmar reserva**
 
-![HTA 4](./imagens/4.jpeg)
+![HTA 4](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-interacao/3_HTAs/imagens/4.jpeg)
 
 A funcionalidade de confirmação da reserva representa o momento em que o usuário finaliza o processo, validando as informações apresentadas pelo sistema. O objetivo do HTA é evidenciar como essa etapa, embora breve, envolve a revisão dos dados exibidos para que o usuário tenha segurança antes de concluir a ação. 
 
