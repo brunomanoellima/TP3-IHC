@@ -105,7 +105,7 @@ Inicialmente, o sistema exibe os detalhes do formulário preenchido anteriorment
 
 ## **HTA 5 – Visualizar reservas no painel**
 
-![HTA 5](./imagens/5.jpeg)
+![HTA 5](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-interacao/3_HTAs/imagens/5.jpg)
 
 Esta funcionalidade descreve o processo pelo qual o vigilante acessa o painel destinado ao acompanhamento das reservas. O objetivo do HTA é detalhar as etapas essenciais para que o vigilante visualize, de forma organizada, as reservas do dia. 
 
