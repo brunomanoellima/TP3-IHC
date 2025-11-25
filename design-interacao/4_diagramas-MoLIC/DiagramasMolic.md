@@ -8,7 +8,7 @@ A seguir estão os diagramas MoLIC desenvolvidos para o sistema, acompanhados de
 
 Este diagrama representa o **fluxo de interação do usuário comum (docente ou discente autorizado)** ao realizar uma reserva no sistema.
 
-![MoLIC Usuário](./imagens/MolicUsuario.png)
+![MoLIC Usuário](https://drive.google.com/uc?id=1LNBWe1ZdsLRqOsEywFGjvb_6Mww3hKHt)
 
 ### **O que acontece no diagrama:**
 
@@ -33,15 +33,15 @@ Este diagrama mostra **todo o caminho do usuário até concluir uma reserva**.
 
 Este diagrama representa o mesmo fluxo de reserva do usuário comum, porém **adaptado para acessibilidade**, garantindo que pessoas com daltonismo possam usar o sistema sem dificuldades.
 
-![MoLIC Usuário Daltônico](./imagens/MolicUsuarioDaltonico.png)
+![MoLIC Usuário Daltônico](https://drive.google.com/uc?id=1KX8EztG9P22jXXkhar4jv5GnOxoiGqju)
 
 ### **O que muda neste diagrama:**
 
 - Elementos visuais são substituídos por:
   - **descrições textuais**  
-  - **forma/estrutura**, em vez de cores  
-- Estados das salas (disponível/indisponível) são apresentados **por texto**, não por cor.
-- Campos e botões têm **descrições explícitas**, evitando que o usuário dependa de distinção cromática.
+  - **formas**, em vez de cores  
+- Estados das salas (disponível/indisponível) apresentados **por texto**.  
+- Botões e campos com **identificação clara**, independente de cor.  
 
 Este diagrama demonstra o compromisso com **acessibilidade e design inclusivo** no sistema.
 
@@ -51,46 +51,39 @@ Este diagrama demonstra o compromisso com **acessibilidade e design inclusivo** 
 
 Este diagrama representa o fluxo do **vigilante**, responsável por validar retirada de chave, acompanhar reservas e registrar devoluções.
 
-![MoLIC Vigilante](./imagens/MolicVigilante.jpeg)
+![MoLIC Vigilante](https://drive.google.com/uc?id=1QZZcQV2IPWICTKlCWHQdKa8GbXwWPmVG)
 
 ### **O que acontece no diagrama:**
 
 ### 🔹 **1. Acesso ao Painel de Reservas**
-- O vigilante entra na área administrativa.
-- O sistema carrega todas as reservas do dia.
-- Ele pode:
-  - ver a lista completa  
-  - selecionar uma reserva específica  
-  - visualizar detalhes (sala, usuário, horário)
+- O vigilante entra na área administrativa.  
+- O sistema exibe todas as reservas do dia.
 
 ### 🔹 **2. Validação da Retirada da Chave**
-- O sistema mostra foto e nome do solicitante.
-- O vigilante confere documento físico.
-- Se estiver correto → ele confirma a entrega da chave.  
-- Se estiver incorreto → o sistema sinaliza *identidade inválida*.
+- O sistema mostra foto, nome e detalhes da reserva.  
+- O vigilante confere a identidade.  
+- Se correto → entrega a chave.  
+- Se incorreto → sistema exibe alerta.
 
 ### 🔹 **3. Uso da Sala**
-- O sistema atualiza o status para **"em uso"**.
+- Sistema muda o status da sala para **“em uso”**.
 
 ### 🔹 **4. Devolução da Chave**
-- O vigilante registra a devolução.
-- Ele verifica condições da sala.
-- O sistema confirma que a chave foi recebida.
+- O vigilante registra a devolução.  
+- Verifica integridade da sala.  
+- Sistema confirma o registro.
 
 ### 🔹 **5. Finalização**
-- O status da sala é atualizado para **"liberada"**.
-
-Este diagrama mostra como o vigilante controla todo o fluxo físico de chaves, garantindo segurança e organização.
+- Status da sala muda para **“liberada”**.
 
 ---
 
 # ✔️ Conclusão
 
-Os três diagramas juntos representam:
+Os três diagramas representam:
 
 - o fluxo do **usuário comum**  
-- uma versão **acessível e inclusiva** para daltônicos  
+- uma versão **acessível** para daltônicos  
 - o fluxo administrativo do **vigilante**  
 
-Todos asseguram uma navegação clara, segura e coerente dentro do sistema.
-
+Eles garantem clareza, acessibilidade e consistência no sistema.
