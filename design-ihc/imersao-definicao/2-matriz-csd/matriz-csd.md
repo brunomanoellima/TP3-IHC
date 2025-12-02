@@ -10,30 +10,29 @@ A **Matriz CSD** é uma ferramenta de apoio à definição do projeto, organizan
 ---
 
 ## Imagens da reunião da contrução da matriz
-![WhatsApp Image 1](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/WhatsApp%20Image%202025-11-06%20at%2015.12.42.jpeg)
-![WhatsApp Image 2](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/WhatsApp%20Image%202025-11-06%20at%2015.13.57.jpeg)
+![WhatsApp Image 1](https://drive.google.com/uc?export=view&id=1J2O4v7Mh7BkRxKETJ_97gCxdfr3H6NdP)
 
 ---
 
 ## Matriz Construída
 
-![Matriz Certezas](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/Matriz%20CSD.png)
+![Matriz Certezas](https://drive.google.com/uc?export=view&id=1xf81b8JiaalcVwjigrLoaAqx7Om2TE0a)
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/certezas.png" width="600px" />
+<img src="https://drive.google.com/uc?export=view&id=1MUBA5r8dxoXMLgCWLQZ1PGxR6lDCqFOU" width="600px" />
 </p>
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/suposi%C3%A7%C3%B5es.png" width="600px" />
+<img src="https://drive.google.com/uc?export=view&id=1ArDGQcbuLzPkQxUc5zRfFYwxkbHPuDLx" width="600px" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/duvidas.png" width="600px" />
+<img src="https://drive.google.com/uc?export=view&id=14D2S6FnaQwrdAVhrozkGxO1MDHkDeM9V" width="600px" />
 </p>
 
 ---
