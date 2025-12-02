@@ -27,7 +27,7 @@ Esse fluxo define todas as intenções, operações e respostas do sistema duran
 ---
 
 ## 🔹 Tela do Usuário – Versão 1
-![Tela Usuário 1](./imagens/TelaUsuario1.png)
+![TelaUsuario1](https://drive.google.com/uc?export=view&id=1dHCS2QvtapGcCIhNtyYvYXIXGQaqycPV)
 
 A versão 1 apresenta uma interface funcional, mas ainda pouco organizada para navegação fluida.  
 Os elementos estão presentes, porém a hierarquia visual não transmite clareza suficiente para a tomada de decisão rápida.
@@ -35,7 +35,7 @@ Os elementos estão presentes, porém a hierarquia visual não transmite clareza
 ---
 
 ## 🔹 Tela do Usuário – Versão 2
-![Tela Usuário 2](./imagens/TelaUsuario2.png)
+![TelaUsuario2](https://drive.google.com/uc?export=view&id=1iRVvffmMKdETlsID5s4lgpt4NP9u9vl8)
 
 A versão 2 apresenta um layout mais limpo, mais organizado e mais próximo do fluxo descrito no MoLIC.  
 A separação entre as informações, o campo visual e os comandos está mais clara, o que melhora a compreensão do usuário e reduz dúvidas ao preencher uma reserva.
@@ -58,7 +58,7 @@ A tela consiste em:
 
 Essa tela é compatível com **tanto usuários comuns quanto daltônicos**.
 
-![Tela Usuário 2](./imagens/TelaUsuario2.png)
+![TelaUsuario2](https://drive.google.com/uc?export=view&id=1iRVvffmMKdETlsID5s4lgpt4NP9u9vl8)
 
 ### ⭐ **Versão escolhida pela equipe:** **Versão 2 do usuário**
 
@@ -83,7 +83,7 @@ Esse fluxo é fundamental para garantir segurança, registro e rastreabilidade n
 ---
 
 ## 🔹 Tela do Vigilante – Versão 1
-![Tela Vigilante 1](./imagens/Tela_Vigi_1.PNG)
+![Tela_Vigi_1](https://drive.google.com/uc?export=view&id=1H8metpF1dVCVymhGF91gcY9deQBKVooV)
 
 A versão 1 traz os elementos necessários, mas ainda possui distribuição densa de informações, o que pode tornar a validação mais lenta durante períodos movimentados.  
 Há pouca separação visual entre ações de validação e devolução.
@@ -91,7 +91,7 @@ Há pouca separação visual entre ações de validação e devolução.
 ---
 
 ## 🔹 Tela do Vigilante – Versão 2
-![Tela Vigilante 2](./imagens/Tela_Vigi_2.PNG)
+![Tela_Vigi_2](https://drive.google.com/uc?export=view&id=1LHGdcwR1YWmXBHbKu9qM31q2zKMiZDyi)
 
 A versão 2 apresenta:
 
