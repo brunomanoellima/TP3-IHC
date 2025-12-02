@@ -1,4 +1,4 @@
-![Guardinha](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/5-jornada-do-usuario/Imagens/vigilante.png)
+![Guardinha](https://drive.google.com/uc?export=view&id=1Myq7GOsoHRckkRy-rcGGWGkGWQOFRxUA)
 
 # 🧭 Jornada do Usuário — Persona “Vigilante”
 
@@ -26,7 +26,7 @@ As principais barreiras estão relacionadas à baixa familiaridade com tecnologi
 
 ---
 
-![Aluno](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/5-jornada-do-usuario/Imagens/aluno%20autorizado.png)
+![Aluno](https://drive.google.com/uc?export=view&id=1hi1ZRyvlH1vSZRCsQ5Z7_m7wu3HFtak3)
 
 # 🧭 Jornada do Usuário — Persona “Estudante Autorizado”
 
@@ -54,7 +54,7 @@ As principais barreiras envolvem adaptação a novas ferramentas, interface aces
 
 ---
 
-![Aluno](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/5-jornada-do-usuario/Imagens/Jornada%201.0.png)
+![Aluno](https://drive.google.com/uc?export=view&id=1nVqpGVu-B-Djlwwq4VbaCTbHFoRDnLvl)
 
 # 🧭 Jornada do Usuário — Persona “Docente”
 
