@@ -57,7 +57,8 @@ Com quem seria possível conversar para entender os detalhes técnicos ou admini
 ## 👩‍💻 Cliente (C1) (Representante de Curso)
 
 ### 🖼️ Foto da Entrevistada  
-![Foto da entrevista](imagens/FotoEntrevista)
+![Foto da Entrevista](https://drive.google.com/uc?export=view&id=1TMouU1VC0uklMIx62wBd0hd0gzUjr9Fd)
+
 
 Graduante em Engenharia de Software pela **UFAM** e atualmente representante do curso de **Engenharia de Software** no Instituto de Ciencias Exatas e Tecnologia.  
 Atua como ponto de contato entre alunos, professores e a coordenação do curso, auxiliando na comunicação e organização de demandas acadêmicas.  
