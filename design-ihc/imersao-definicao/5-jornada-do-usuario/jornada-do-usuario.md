@@ -1,4 +1,6 @@
-![Guardinha](https://drive.google.com/uc?export=view&id=1Myq7GOsoHRckkRy-rcGGWGkGWQOFRxUA)
+![Guardinha](https://drive.google.com/uc?export=view&id=1EznhhuCLsu6LGIWW5sviqeplQzx3pHbX)
+
+
 
 # 🧭 Jornada do Usuário — Persona “Vigilante”
 
@@ -26,7 +28,7 @@ As principais barreiras estão relacionadas à baixa familiaridade com tecnologi
 
 ---
 
-![Aluno](https://drive.google.com/uc?export=view&id=1hi1ZRyvlH1vSZRCsQ5Z7_m7wu3HFtak3)
+![Aluno](https://drive.google.com/uc?export=view&id=1l5X0c6_xqppCquLtkYFb8QCk1y8pkEio)
 
 # 🧭 Jornada do Usuário — Persona “Estudante Autorizado”
 
@@ -54,7 +56,7 @@ As principais barreiras envolvem adaptação a novas ferramentas, interface aces
 
 ---
 
-![Aluno](https://drive.google.com/uc?export=view&id=1nVqpGVu-B-Djlwwq4VbaCTbHFoRDnLvl)
+![Docente](https://drive.google.com/uc?export=view&id=1sI2TWSHjv_gak8CNW1Y6aGVbt8C7tUaL)
 
 # 🧭 Jornada do Usuário — Persona “Docente”
 
