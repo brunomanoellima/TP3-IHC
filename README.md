@@ -49,7 +49,7 @@ Organiza as descobertas em:
 - **Dúvidas**
 
 ### 📸 Matriz construída
-![Matriz CSD](https://raw.githubusercontent.com/brunomanoellima/TP3-IHC/refs/heads/main/design-ihc/imersao-definicao/2-matriz-csd/imagens/Matriz%20CSD.png)
+![Matriz CSD](https://drive.google.com/uc?export=view&id=1xf81b8JiaalcVwjigrLoaAqx7Om2TE0a)
 
 ---
 
@@ -95,7 +95,7 @@ Classificação dos requisitos:
 - **Won’t Have:** integração com Google Calendar.
 
 ### 📸 Priorização
-![MoSCoW](design-ihc/imersao-definicao/6-moscow/imagens/moscou.png)
+![MoSCoW](https://drive.google.com/uc?export=view&id=1edBTi-89YX3K3a4ju0hVj4u9wR9eY3Lh)
 
 ---
 
@@ -145,7 +145,8 @@ O mapa apresenta:
 - caminhos de ação  
 
 📸 **Mapa de Objetivos**  
-![Mapa de Objetivos](design-interacao/2_mapas-objetivos/imagens/mapa_objetivo.png)
+![Mapa de Objetivos](https://drive.google.com/uc?export=view&id=1wcXrqItdqwyCq7_D2vZZgTnUs18qkiYc)
+
 
 ---
 
@@ -208,15 +209,15 @@ Inclui:
 
 | Tela | Imagem |
 |------|--------|
-| **Usuário – Versão 1** | ![TelaUsuario1](design-interacao/5_sketches/imagens/TelaUsuario1.png) |
-| **Usuário – Versão 2 (Escolhida)** | ![TelaUsuario2](design-interacao/5_sketches/imagens/TelaUsuario2.png) |
+| **Usuário – Versão 1** | ![TelaUsuario1](https://drive.google.com/uc?export=view&id=1dHCS2QvtapGcCIhNtyYvYXIXGQaqycPV) |
+| **Usuário – Versão 2 (Escolhida)** | ![TelaUsuario2](https://drive.google.com/uc?export=view&id=1iRVvffmMKdETlsID5s4lgpt4NP9u9vl8) |
 
 ### 📸 Sketches do Vigilante
 
 | Tela | Imagem |
 |------|--------|
-| **Vigilante – Versão 1** | ![Vigi1](design-interacao/5_sketches/imagens/Tela_Vigi_1.PNG) |
-| **Vigilante – Versão 2 (Escolhida)** | ![Vigi2](design-interacao/5_sketches/imagens/Tela_Vigi_2.PNG) |
+| **Vigilante – Versão 1** | ![Vigi1](https://drive.google.com/uc?export=view&id=1H8metpF1dVCVymhGF91gcY9deQBKVooV) |
+| **Vigilante – Versão 2 (Escolhida)** | ![Vigi2](https://drive.google.com/uc?export=view&id=1LHGdcwR1YWmXBHbKu9qM31q2zKMiZDyi) |
 
 ---
 
