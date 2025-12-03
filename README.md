@@ -1,10 +1,55 @@
-# 📘 TP3 – Imersão, Definição & Design de Interação  
-## 👥 Equipe:
- **Bruno, Carlos, Cintia e Nelio**
-## Sistema de Agendamento de Salas e Laboratórios – UFAM (ICET)
+<img width="120" src="https://cdn-icons-png.flaticon.com/512/1827/1827370.png" />
 
-Este repositório reúne todos os artefatos produzidos nas etapas de **Imersão**, **Definição** e **Design de Interação** do TP3 de IHC.  
-Aqui estão incluídos: pesquisa com usuários, modelagem conceitual, análise de tarefas, fluxos de interação e protótipos de baixa fidelidade.
+# 📘 TP3 – Imersão, Definição e Design de Interação  
+### Sistema de Agendamento de Salas e Laboratórios – UFAM (ICET)
+
+---
+
+# 📌 Sumário  
+- [Equipe](#-equipe)  
+- [Visão Geral do Projeto](#-visão-geral-do-projeto)  
+- [1. Imersão & Definição](#-1-imersão--definição)  
+  - Briefing  
+  - Matriz CSD  
+  - Benchmarking  
+  - Personas & Jornada  
+  - MoSCoW  
+- [2. Design de Interação](#-2-design-de-interação)  
+  - Metamensagem  
+  - Mapa de Objetivos  
+  - HTA  
+  - MoLIC  
+  - Sketches  
+- [3. Identidade Visual](#-3-identidade-visual)  
+  - Paleta de Cores  
+  - Tipografia  
+  - Estilo de Ícones  
+- [4. Protótipo Interativo](#-4-protótipo-interativo)  
+- [5. Usabilidade, Heurísticas e Comunicabilidade](#-5-usabilidade-heurísticas-e-comunicabilidade)  
+  - Telas de Acesso  
+  - Telas de Busca e Solicitação  
+  - Painel do Vigia  
+- [Conclusão](#-conclusão)
+
+---
+
+# 👥 Equipe  
+**Bruno — Carlos — Cíntia — Nélio**
+
+---
+
+# 📖 Visão Geral do Projeto  
+
+Este repositório documenta **todo o processo** de criação do sistema *Reserva ICET*, desenvolvido para a disciplina de IHC.  
+
+Inclui:  
+✔ Pesquisa com usuários  
+✔ Análise de tarefas  
+✔ Modelagem conceitual  
+✔ Fluxos de interação  
+✔ Prototipação  
+✔ Avaliação com heurísticas  
+✔ Identidade visual e justificativas  
 
 ---
 
@@ -12,234 +57,223 @@ Aqui estão incluídos: pesquisa com usuários, modelagem conceitual, análise d
 
 ---
 
-## 🧩 Briefing
+## 🧩 Briefing  
+O agendamento atual de salas e laboratórios depende de **vigilantes, cadernos físicos e comunicação informal**.
 
-### 👥 Clientes Potenciais
+Problemas identificados:  
+- Lento  
+- Pouco transparente  
+- Sem histórico  
+- Dependente do turno do vigilante  
+- Sem previsibilidade para docentes e discentes  
 
-**Docente:**  
-Professor que precisa reservar salas para aulas, práticas e orientações. Hoje depende do vigilante e do caderno físico.
-
-**Discente autorizado:**  
-Aluno que usa salas para reuniões, estudos em grupo e atividades acadêmicas, também dependendo do sistema manual atual.
-
-> ❗ O processo atual é **lento, burocrático, manual e sem transparência**.
-
-### 🗣️ Roteiro de entrevista
-
-> "Olá, somos estudantes de IHC e estamos desenvolvendo um sistema para facilitar o agendamento das salas do instituto..."
-
-Foram coletadas informações sobre:
-- necessidades reais  
-- dores do sistema atual  
-- funcionalidades essenciais  
-- prioridades  
-- integrações possíveis  
-
-### 👩‍💻 Cliente C1 – Representante do Curso
-
-Estudante de Engenharia de Software que atua como ponte entre coordenação, alunos e vigilância.  
-Apresentou com clareza a demanda de **digitalizar o processo inteiro de reserva**.
+Perfis atendidos:  
+- 👨‍🏫 **Docentes**
+- 🎓 **Discentes autorizados**
+- 👮 **Vigilantes**  
 
 ---
 
-## 🧱 Matriz CSD
-
-Organiza as descobertas em:
-
-- **Certezas**  
-- **Suposições**  
-- **Dúvidas**
-
-### 📸 Matriz construída
-![Matriz CSD](https://drive.google.com/uc?export=view&id=1xf81b8JiaalcVwjigrLoaAqx7Om2TE0a)
+## 🧱 Matriz CSD  
+![CSD](https://drive.google.com/uc?export=view&id=1xf81b8JiaalcVwjigrLoaAqx7Om2TE0a)
 
 ---
 
-## 📊 Benchmarking
+## 📊 Benchmarking  
+Ferramentas analisadas:
 
-Sistemas analisados:
+| Sistema | Pontos Positivos | Limitações |
+|--------|------------------|------------|
+| Google Calendar | Intuitivo e visual | Sem controle de chaves |
+| Bookings | Completo | Pago |
+| Reserva USP | Acadêmico | Pouco flexível |
+| MRBS IFAM | Similar à UFAM | Interface complexa |
 
-1. **Google Calendar** – excelente visual, mas sem controle de chaves.  
-2. **Microsoft Bookings** – robusto, mas pago.  
-3. **Reserva USP** – acadêmico, porém limitado.  
-4. **MRBS – IFAM** – mais próximo da realidade UFAM.
-
-### 🧠 Conclusão geral
-A UFAM precisa de um sistema **híbrido**: digital + suporte ao controle físico de chaves feito pelo vigilante.
-
----
-
-## 👤 Personas & 🧭 Jornada do Usuário
-
-Três personas principais:
-
-### 👮 Vigilante  
-Dores: processos manuais, receio de erros, falta de organização.
-
-### 🎓 Estudante Autorizado  
-Dores: deslocamento até o vigilante, falta de previsibilidade e transparência.
-
-### 👨‍🏫 Docente  
-Dores: agenda cheia, dependência do vigilante, dificuldade para acompanhar salas.
-
-As jornadas completas estão em:  
-`5-jornada-do-usuario/jornada-do-usuario.md`
+**Conclusão:** UFAM precisa de um sistema digital **+ suporte ao controle físico de chaves**.
 
 ---
 
-## 📌 Priorização MoSCoW
+## 👤 Personas & Jornada
+Perfis estudados:
+- 👨‍🏫 Docente  
+- 🎓 Discente Autorizado  
+- 👮 Vigilante  
 
-Classificação dos requisitos:
-
-- **Must Have:** login institucional, visualização, reserva e validação do vigilante.  
-- **Should Have:** filtros e histórico.  
-- **Could Have:** mapa interativo, recorrência de reservas.  
-- **Won’t Have:** integração com Google Calendar.
-
-### 📸 Priorização
-![MoSCoW](https://drive.google.com/uc?export=view&id=1edBTi-89YX3K3a4ju0hVj4u9wR9eY3Lh)
+Jornada completa em: `5-jornada-do-usuario/jornada-do-usuario.md`
 
 ---
 
-## 📎 Arquivos úteis da Imersão & Definição
-
-- **Briefing:** `1-briefing/briefing.md`  
-- **Matriz CSD:** `2-matriz-csd/matriz-csd.md`  
-- **Benchmarking:** `3-benchmarking/benchmarking.md`  
-- **Personas:** `4-personas/`  
-- **Jornada do usuário:** `5-jornada-do-usuario/jornada-do-usuario.md`  
-- **MoSCoW:** `6-moscow/moscow.md`  
+## 📌 MoSCoW  
+![Moscow](https://drive.google.com/uc?export=view&id=1edBTi-89YX3K3a4ju0hVj4u9wR9eY3Lh)
 
 ---
 
 # 🎨 2. Design de Interação
 
-Esta seção apresenta todo o processo de modelagem e prototipação do sistema, dividido em:
+---
 
-1. Metamensagem  
-2. Mapa de Objetivos  
-3. HTAs  
-4. Diagramas MoLIC  
-5. Protótipos de Baixa Fidelidade (Sketches)
+## 🧩 Metamensagem  
+📁 `1_metamensagem/`
+
+Define:
+- contexto de uso  
+- objetivos  
+- necessidades  
+- estilo da comunicação  
 
 ---
 
-## 🧩 2.1 Metamensagem  
-📁 Pasta: [`1_metamensagem`](../1_metamensagem/README.md)
-
-A metamensagem define:
-
-- quem usa o sistema  
-- o que busca  
-- como o sistema ajuda  
-- o que a interface deve transmitir  
+## 🎯 Mapa de Objetivos  
+![Mapa](https://drive.google.com/uc?export=view&id=1wcXrqItdqwyCq7_D2vZZgTnUs18qkiYc)
 
 ---
 
-## 🎯 2.2 Mapa de Objetivos  
-📁 Pasta: [`2_mapas-objetivos`](../2_mapas-objetivos/README.md)
+## 🧠 HTA – Hierarchical Task Analysis  
+📁 `3_HTAs/`
 
-O mapa apresenta:
-
-- objetivos finais  
-- objetivos intermediários  
-- relação entre papéis  
-- caminhos de ação  
-
-📸 **Mapa de Objetivos**  
-![Mapa de Objetivos](https://drive.google.com/uc?export=view&id=1wcXrqItdqwyCq7_D2vZZgTnUs18qkiYc)
-
+Contém 8 HTAs completos (Acesso → Reserva → Validação → Histórico).
 
 ---
 
-## 🧠 2.3 HTA – Hierarchical Task Analysis  
-📁 Pasta: [`3_HTAs`](../3_HTAs/README.md)
-
-Inclui 8 HTAs completos, cada um com:
-
-- imagem  
-- explicação textual  
-- relação com o Mapa de Objetivos  
-
-### 📸 HTAs (1 a 8)
-
-| HTA | Imagem |
-|------|--------|
-| **HTA 1 – Acessar o sistema** | ![HTA1](https://drive.google.com/uc?id=1hXETYxbKu4LS-oOsDaK3r-2fV-fFBSQh) |
-| **HTA 2 – Visualizar disponibilidade** | ![HTA2](https://drive.google.com/uc?id=1EChsTqi7xUjsGV0wf0iaMmh71udgL43F) |
-| **HTA 3 – Selecionar e definir reserva** | ![HTA3](https://drive.google.com/uc?id=1L2kVTmX-QillwDhgoAiUqeFNmJCX3SrN) |
-| **HTA 4 – Confirmar reserva** | ![HTA4](https://drive.google.com/uc?id=1CBsHOWBzDJiLKNiWhtDtYvoUB8a6sZTK) |
-| **HTA 5 – Visualizar reservas (vigilante)** | ![HTA5](https://drive.google.com/uc?id=1R3m_M08aG7tBzPq8U5rLvRet-txARUhZ) |
-| **HTA 6 – Validar retirada da chave** | ![HTA6](https://drive.google.com/uc?id=1_I1R-F1gtZtn1LHuN1LnamTKptwX0_0O) |
-| **HTA 7 – Registrar devolução** | ![HTA7](https://drive.google.com/uc?id=1mzohrNWfvdezT3EsA3TIBBWlzGMLCoou) |
-| **HTA 8 – Consultar histórico** | ![HTA8](https://drive.google.com/uc?id=15XKPXNWHimCZrgd-oZgzvAcKI2yhQvZ6) |
-
----
-
-## 💬 2.4 Diagramas MoLIC  
-📁 Pasta: [`4_diagramas-MoLIC`](../4_diagramas-MoLIC/README.md)
+## 💬 Diagramas MoLIC  
+📁 `4_diagramas-MoLIC/`
 
 Inclui:
-
-- MoLIC do Usuário  
-- MoLIC Adaptado para Daltônicos  
-- MoLIC do Vigilante  
-
-### 📸 Diagramas MoLIC
-
-| Tipo | Imagem |
-|------|--------|
-| **MoLIC do Usuário** | ![MolicUsuario](https://drive.google.com/uc?id=1LNBWe1ZdsLRqOsEywFGjvb_6Mww3hKHt) |
-| **MoLIC Adaptado (Daltônicos)** | ![MolicDalt](https://drive.google.com/uc?id=1KX8EztG9P22jXXkhar4jv5GnOxoiGqju) |
-| **MoLIC do Vigilante** | ![MolicVigi](https://drive.google.com/uc?id=1QZZcQV2IPWICTKlCWHQdKa8GbXwWPmVG) |
+- MoLIC Usuário  
+- MoLIC Vigilante  
+- MoLIC Acessível (Daltônicos)  
 
 ---
 
-## 🎨 2.5 Protótipos de Baixa Fidelidade (Sketches)  
-📁 Pasta: [`5_sketches`](../5_sketches/README.md)
+## ✏️ Sketches (Baixa Fidelidade)  
+📁 `5_sketches/`
 
 Inclui:
-
-- Telas do usuário (versão 1 e 2)  
-- Tela adaptada para daltônicos  
-- Telas do vigilante  
-- Comparativo MoLIC → Tela  
-- Explicações  
-- Justificativa da escolha da Versão 2  
-
-### 📸 Sketches do Usuário
-
-| Tela | Imagem |
-|------|--------|
-| **Usuário – Versão 1** | ![TelaUsuario1](https://drive.google.com/uc?export=view&id=1dHCS2QvtapGcCIhNtyYvYXIXGQaqycPV) |
-| **Usuário – Versão 2 (Escolhida)** | ![TelaUsuario2](https://drive.google.com/uc?export=view&id=1iRVvffmMKdETlsID5s4lgpt4NP9u9vl8) |
-
-### 📸 Sketches do Vigilante
-
-| Tela | Imagem |
-|------|--------|
-| **Vigilante – Versão 1** | ![Vigi1](https://drive.google.com/uc?export=view&id=1H8metpF1dVCVymhGF91gcY9deQBKVooV) |
-| **Vigilante – Versão 2 (Escolhida)** | ![Vigi2](https://drive.google.com/uc?export=view&id=1LHGdcwR1YWmXBHbKu9qM31q2zKMiZDyi) |
+- Usuário v1 e v2  
+- Vigilante v1 e v2  
+- Versão final escolhida  
+- Mapeamento MoLIC → Tela  
 
 ---
 
+# 🎨 3. Identidade Visual
+
 ---
 
-# ✔️ Conclusão
+## 🎨 Paleta de Cores
 
-Esta seção documenta de forma completa e organizada todo o processo de **Design de Interação**, mostrando claramente:
+| Cor | Hex | Uso | Justificativa |
+|----|------|------|---------------|
+| 🔵 Azul Royal | **#0e34e8** | Cor principal | Tecnologia, confiança e profissionalismo |
+| 🟤 Marrom Dourado | **#bf7908** | Cor de apoio | Equilíbrio, seriedade e estabilidade |
+| 🟡 Amarelo Ouro | **#faa10b** | Destaque | Atenção, hierarquia visual e energia |
+| ⚪ Branco | **#ffffff** | Fundo | Limpeza, respiro e contraste |
+| ⚫ Cinza Médio | **#727272** | Textos secundários | Legibilidade sem agressividade |
 
-- a visão conceitual  
-- os objetivos dos usuários  
-- as tarefas essenciais  
-- os fluxos de interação  
-- e os primeiros protótipos desenhados  
+---
 
-Ela garante consistência, clareza e rastreabilidade entre todas as etapas do projeto.
+## ✒️ Tipografia
 
+### **1. Belanossimas (Títulos)**
+- Elegante e marcante  
+- Dá personalidade aos títulos  
+- Boa para gerar identidade visual forte
 
+### **2. Andika (Títulos e Corpo)**
+- Extremamente legível  
+- Ideal para acessibilidade  
+- Confiável para mobile  
 
+### **3. Amiri Quran Colored (Corpo de texto)**
+- Serifada e formal  
+- Boa para textos longos  
+- Ajuda na hierarquia visual  
 
+---
 
+## 🖼️ Estilo de Ícones e Signos  
+- Baseados em **Material Symbols** e **Phosphor Icons**  
+- Traço linear, curvo e minimalista  
+- Signos metalinguísticos claros:
+  - ✔ Sucesso  
+  - ❌ Erro  
+  - 🟢 Disponível  
+  - 🟠 Em uso  
+  - 🔴 Indisponível  
 
+**Consistência semântica:** o mesmo ícone representa sempre a mesma ação.
 
+---
+
+# 🎨 4. Protótipo Interativo
+
+👉 **Acesse o protótipo navegável no Figma:**  
+### 🔗 https://www.figma.com/proto/9457ZrZiUT5ts2XfAXC41d/TP3?node-id=144-802&p=f
+
+---
+
+# 📱 5. Usabilidade, Heurísticas e Comunicabilidade
+
+A avaliação segue as **10 Heurísticas de Nielsen**, com foco em:
+- visibilidade  
+- consistência  
+- correspondência ao mundo real  
+- prevenção de erros  
+- acessibilidade  
+
+---
+
+## 🟦 Telas de Acesso, Login e Cadastro  
+![T1](https://drive.google.com/uc?export=view&id=1xEKjDEFx1FA6yqWYMVPxj5m-g3TRDJ3f)
+
+### ✔ Heurísticas aplicadas
+- **H1 – Visibilidade do estado do sistema:** perfil selecionado destacado  
+- **H4 – Consistência e padrões:** campos sempre iguais  
+- **H8 – Estética e minimalismo:** foco no essencial  
+
+### ✔ Acessibilidade
+- Alto contraste  
+- Tipografia legível  
+- Campos grandes  
+
+---
+
+## 🟦 Telas de Busca, Resultados e Solicitação  
+![T2](https://drive.google.com/uc?export=view&id=1V2BZYKe1Ht19i2iwO1Frw9ojgmEZ-JWB)
+
+### ✔ Heurísticas
+- **H2 – Correspondência com o mundo real:** uso de cores universais  
+- **H5 – Prevenção de erros:** datas e horários separados  
+- **H6 – Reconhecimento, não memorização:** repetição de padrões  
+
+### ✔ Comunicabilidade
+- Signos por cor (verde/laranja/vermelho)  
+- Etiquetas e ícones reforçam intenção  
+
+---
+
+## 🟦 Painel do Vigia  
+![T3](https://drive.google.com/uc?export=view&id=1mJ3LzTh_3WO8GKpRLUxAslLABUSpOUgu)
+
+### ✔ Heurísticas
+- **H1 – Visibilidade do estado do sistema:** feedback imediato  
+- **H3 – Controle e liberdade:** botão “Voltar ao início”  
+- **H7 – Eficiência:** painel otimizado para decisões rápidas  
+- **H9 – Recuperação de erros:** mensagens claras (✔ / ❌)
+
+---
+
+# ✔ Conclusão
+
+Este projeto apresenta:
+
+✔ Documentação completa (Imersão → Entrega Final)  
+✔ Prototipação de alta qualidade  
+✔ Análise sólida de usabilidade  
+✔ Aplicação real das heurísticas de Nielsen  
+✔ Identidade visual consistente e acessível  
+✔ Fluxos claros para os três perfis do sistema  
+
+O sistema *Reserva ICET* oferece uma solução moderna, intuitiva e funcional para o agendamento de salas, alinhado à realidade da UFAM.
+
+---
