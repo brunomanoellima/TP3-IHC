@@ -239,7 +239,7 @@ A avaliação segue as **10 Heurísticas de Nielsen**, com foco em:
 ---
 
 ## 🟦 Telas de Busca, Resultados e Solicitação  
-![T2](https://drive.google.com/uc?export=view&id=1V2BZYKe1Ht19i2iwO1Frw9ojgmEZ-JWB)
+![Tela 2](https://drive.google.com/uc?export=view&id=1sainHbak4oPfzC4OB434pigQryckUEUh)
 
 ### ✔ Heurísticas
 - **H2 – Correspondência com o mundo real:** uso de cores universais  
