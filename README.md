@@ -1,4 +1,6 @@
 # 📘 TP3 – Imersão, Definição & Design de Interação  
+## 👥 Equipe:
+ **Bruno, Carlos, Cintia e Nelio**
 ## Sistema de Agendamento de Salas e Laboratórios – UFAM (ICET)
 
 Este repositório reúne todos os artefatos produzidos nas etapas de **Imersão**, **Definição** e **Design de Interação** do TP3 de IHC.  
